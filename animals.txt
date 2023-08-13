@@ -1,0 +1,6 @@
+dog
+cat
+frog
+bat
+duck
+whale
